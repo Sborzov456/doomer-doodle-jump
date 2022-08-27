@@ -26,7 +26,7 @@
 ## :pushpin: Settings: 
 
   All settings are stored in the **Settings.cpp** file. <br>
-  I recommend that you do not change the _texture size settings_, but you can change the following settings:
+  I recommend you do not to change the _texture size settings_, but you can change the following settings:
   * `const float START_VERTICAL_SPEED`: the initial jump speed of the character, the higher it is, the higher the character will jump;
   * `const float VERTICAL_ACCELERATION`: free fall acceleration, the higher it is, the faster the character will lose initial speed;
   * `const float HORIZONTAL_SPEED`: the speed at which the character moves horizontally when the arrows on the keyboard are pressed;
