@@ -35,3 +35,11 @@
   * `const float DISTANCE_BETWEEN_PLATFORMS`: distance between platforms during their initialization, the smaller it is, the more platforms will be initialized;
   * `const float LEVELS_CHANGE_SPEED`: the rate at which the difficulty of the game will increase;
   * `const float MAX_LEVEL_SCORE`: score limit at which the difficulty of the game will stop increasing;
+
+## :pushpin: Run Without Сompilation
+  1. **Follow the link below to [Google Disk](https://drive.google.com/drive/folders/15RAKZuXRAXLoUJRMtCb7S19sK4udE6dN?usp=sharing);**
+  2. **Download the _DoomerDoodle.rar_ file from there;**
+  3. **Unzip the archive (Password: 123);**
+  4. **Run DoomerDoodleJump.exe;**
+  
+  :warning: **If the operating system will warn about malware - ignore it, the warning is erroneous.**
