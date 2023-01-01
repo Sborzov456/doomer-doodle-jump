@@ -5,7 +5,7 @@
   The meaning of the game is to _score points by passing the distance by jumping on the platforms_.<br>
   _**You can control the character with the arrows on keyboard.**_
   
-  :computer: **Code - [Alexander Borzov](https://github.com/Sborzov456)** <br>
+  :computer: **Code - [Alexandr Borzov](https://github.com/Sborzov456)** <br>
   :paintbrush: **Design - [Victoria Koroleva](https://vk.com/vwika_artt)**
 ## :pushpin: Demo
   
